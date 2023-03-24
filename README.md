@@ -31,7 +31,7 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack">HTML & CSS</a>
 
 
 <!-- Features -->
